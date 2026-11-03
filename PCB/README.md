@@ -1,6 +1,6 @@
 # ⚡ LBoizPnP Custom Mainboard
 
-![Mainboard](images/LPC1769_LBoizPnP_v1.2.png)
+![Mainboard](Images/LPC1769_LBoizPnP_v1.2.png)
 Đây là kho lưu trữ toàn bộ hồ sơ thiết kế phần cứng (Hardware Design Files) cho bo mạch chủ của dự án **LBoizPnP Machine**. Bo mạch được thiết kế chuyên biệt để làm cầu nối trung gian giữa vi điều khiển (chạy Klipper) và các cơ cấu chấp hành cơ điện tử của máy Pick and Place.
 
 ---
