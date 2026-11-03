@@ -1,0 +1,194 @@
+(footprint "3P_Male"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Terminal Block 3.81mm Right-Angle ")
+	(property "Reference" "REF**"
+		(at 0 4.99 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7a2ab915-08d4-4139-a989-9b7dd8d8f56e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "3P_Male"
+		(at 0 6.96 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a5cc7ee7-81df-4d58-9d53-4d7883dc266e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d867ec4-3d6b-4e38-bc6f-42cd67f0252c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec0519ed-fe17-4fb5-8041-a0dce38f6de3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -6.11 -1.86)
+		(end -6.11 6.04)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "32401849-79bf-4c07-acb0-c466b0576547")
+	)
+	(fp_line
+		(start 6.11 -1.86)
+		(end -6.11 -1.86)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1fe06d2b-8479-402c-bab2-41e0c3bc2891")
+	)
+	(fp_line
+		(start 6.11 -1.86)
+		(end 6.11 6.04)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "97ffa7b0-1acc-4473-a43e-d66cd01b610b")
+	)
+	(fp_line
+		(start 6.11 6.04)
+		(end -6.11 6.04)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c9eb7cf5-220a-45ba-9df9-187d3a7cbce9")
+	)
+	(fp_rect
+		(start -6.19 -1.94)
+		(end 6.19 6.12)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "886b40b5-75cf-4a36-8400-7d10ee7dd924")
+	)
+	(fp_rect
+		(start -6.06 -1.81)
+		(end 6.06 6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "9d32bc05-c415-4eae-942f-4287e56bf075")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 7.05 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a9a326cd-0df8-43e2-b02a-95173da398af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3.81 0)
+		(size 2.54 2.54)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "21c00cf0-2126-41c0-b5ed-478cc32c41bc")
+	)
+	(pad "1" thru_hole circle
+		(at -3.81 2.54)
+		(size 2.54 2.54)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3d8552d2-04ad-470b-99a4-e3f70e060f84")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 2.54 2.54)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a79ccd7a-8652-4304-9465-a59843fcc8a4")
+	)
+	(pad "2" thru_hole circle
+		(at 0 2.54)
+		(size 2.54 2.54)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "757db3be-9098-427e-90f8-4e1059f7d28a")
+	)
+	(pad "3" thru_hole circle
+		(at 3.81 0)
+		(size 2.54 2.54)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6adae7c0-53fd-45c0-a81c-ac1aecc023b7")
+	)
+	(pad "3" thru_hole circle
+		(at 3.81 2.54)
+		(size 2.54 2.54)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f423c8eb-a550-4af0-96a0-b60dd553e5af")
+	)
+	(embedded_fonts no)
+	(model "D:/Workspace/Kicad_Library/MaxiK.pretty/TerminalBlock_Right-Angle_3P_Male.step"
+		(offset
+			(xyz 6.1 1.9 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 180)
+		)
+	)
+)

@@ -1,0 +1,6 @@
+<openpnp-parts>
+   <part id="FIDUCIAL-1X2-FIDUCIAL1X2" height-units="Millimeters" height="0.0" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="FIDUCIAL-1X2" speed="1.0" pick-retry-count="0"/>
+   <part id="R0805-1K" height-units="Millimeters" height="0.5" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part fiducial-vision-id="FVS18cec51cf3afda90" id="FIDUCIAL-HOME" height-units="Millimeters" height="0.0" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="FIDUCIAL-HOME" speed="1.0" pick-retry-count="0"/>
+   <part id="R0603-1K" height-units="Millimeters" height="0.5" through-board-depth-units="Millimeters" through-board-depth="0.0" package-id="FIDUCIAL-1X2" speed="1.0" pick-retry-count="0"/>
+</openpnp-parts>
