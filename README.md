@@ -1,6 +1,6 @@
 # 🏭 LBoizPnP Machine Project
 
-![Mainboard](Images/LBoizPnP.png)
+![Mainboard](Images/LPC-PnP.png)
 
 ## 📊 1. Tiến độ Thực tế Dự án (Project Status Tracking)
 
